@@ -10,4 +10,4 @@ Stay at home or Dance with us
 ![旋律2](melody2.png)
 
 ### 点击预览
-![[预览](https://www.bilibili.com/video/BV1Tz4y1X79A)](cover.jpg)
+[![bilibili](cover.jpg)](https://www.bilibili.com/video/BV1Tz4y1X79A)
